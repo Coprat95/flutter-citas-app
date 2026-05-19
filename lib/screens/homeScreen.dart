@@ -35,7 +35,7 @@ class _HomeScreenState extends State<HomeScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Cites de autor',
+        title: Text('Citas de autor',
             style: TextStyle(fontSize: 27, fontWeight: FontWeight.bold)),
         backgroundColor: Appcolors.backgroundThemeColor,
         foregroundColor: Colors.white,
