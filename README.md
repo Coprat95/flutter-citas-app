@@ -6,7 +6,7 @@ App Flutter que muestra un listado de citas de autores famosos con buscador en t
 
 | Home | Buscando | Detalle |
 |------|----------|---------|
-| ![Home](citas_app/screenshots/screenshot_home.png) | ![Buscando](citas_app/screenshots/screenshot_home_filled.png) | ![Detalle](citas_app/screenshots/screenshot_detail.png) |
+| ![Home](screenshots/screenshot_home.png) | ![Buscando](screenshots/screenshot_home_filled.png) | ![Detalle](screenshots/screenshot_detail.png) |
 
 ## Características
 
